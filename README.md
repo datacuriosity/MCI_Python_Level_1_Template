@@ -1,9 +1,9 @@
 # MCI_Python_21S_Level_1
-While create a new file for coding, please make sure that file name is not available on github project.
+While create a new file for coding, please make sure you DON'T name the same with an existing file.
 
-It means that no duplicate file name.
+It means that no duplicated file name.
 
-In case any changes in available files, please **discard** it before committing. 
+In case any unexpected changes in available files, please **discard** it before committing. 
 
 # Assignment
 1. Duplicate the assignment file
